@@ -1,6 +1,6 @@
 ## Iniciar el proyecto
 
-First, run the development server:
+primero, correr uno de los siguientes comandos:
 
 ```bash
 npm run dev
