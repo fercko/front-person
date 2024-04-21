@@ -1,5 +1,9 @@
 ## Iniciar el proyecto
 
+Requiere:
+```
+    node v20
+```
 primero, correr uno de los siguientes comandos:
 
 ```bash
