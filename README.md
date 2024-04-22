@@ -7,6 +7,12 @@ Requiere:
 primero, correr uno de los siguientes comandos:
 
 ```bash
+(solo la primera vez)
+npm install
+#or
+yarn install
+
+Luego:
 npm run dev
 # or
 yarn dev
